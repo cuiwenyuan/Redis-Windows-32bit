@@ -1,3 +1,7 @@
+# Redis-Windows-64bit
+The Windows 64-bit bin files for Redis can download here.
+Please read the word document for details.
+
 # Redis-Windows-32bit
 The Windows 32-bit bin files for Redis can download here.
 
@@ -25,4 +29,4 @@ Location: Shanghai,China
 
 Homepage: http://www.cuiwenyuan.com
 
-Webchat/Mobile: 13818699609
+Wechat/Mobile: 13818699609
